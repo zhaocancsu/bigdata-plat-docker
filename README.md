@@ -1,5 +1,7 @@
 # bigdata-plat-docker
 
+基于docker搭建的大数据测试学习环境
+
 - 软件列表
   - hadoop-2.8.5
   - hive-2.3.3
