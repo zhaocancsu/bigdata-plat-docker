@@ -1,5 +1,5 @@
 FROM centos
-MAINTAINER fineplace <zhaocan@migu.cn>
+MAINTAINER fineplace <zhaocan1@xiaomi.com>
 
 #install jdk
 ADD jdk-8u191-linux-x64.tar.gz /usr/local
